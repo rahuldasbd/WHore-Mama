@@ -1,0 +1,26 @@
+<html>
+  <head>
+    <title>One and only vaigna SHanto BIswas ei</title>
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <style>
+      /* Use a responsive design to make the website
+         adapt to the size and orientation of the device */
+      body {
+        margin: 0;
+        padding: 0;
+        width: 100%;
+        display: flex;
+        flex-direction: column;
+        justify-content: center;
+        align-items: center;
+      }
+      h1 {
+        font-size: 3em;
+        text-align: center;
+      }
+    </style>
+  </head>
+  <body>
+    <h1>One and only vaigna SHanto BIswas ei</h1>
+  </body>
+</html>
